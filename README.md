@@ -1,16 +1,47 @@
-## Hi there 👋
+# 💻 Hi there! I'm Rupesh 👋  
 
-<!--
-**nrupeshkumar/nrupeshkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me  
+- 🌟 **Recent Graduate**: BCA from Madras University  
+- 💡 **Passionate Web Developer**: Proficient in HTML, CSS, Bootstrap, JavaScript  
+- 📈 **Aspiring Full Stack Developer**: Learning React.js and exploring modern web technologies  
+- 📊 **Digital Enthusiast**: Interested in Excel, MS Word, and digital marketing  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills & Tools  
+**Frontend**  
+- HTML | CSS | Bootstrap | JavaScript  
+
+**Backend & Databases**  
+- (Add your backend/database knowledge, e.g., Node.js, MongoDB)  
+
+**Others**  
+- Excel | MS Word  
+
+---
+
+### 📂 Featured Projects  
+- 🌐 **[Portfolio Website](#)**: A showcase of my personal projects and skills.  
+- 📑 **Project Name**: (Brief description and [link](#))  
+- 📊 **Project Name**: (Brief description and [link](#))  
+
+*(Add links to your hosted projects or repositories here)*  
+
+---
+
+### 📚 What I'm Learning  
+- React.js | Advanced Excel | Digital Marketing  
+
+---
+
+### 🌐 Connect with Me  
+- 🖇️ **LinkedIn**: [Your LinkedIn Profile](#)  
+- ✉️ **Email**: [Your Email Address](#)  
+
+---
+
+### 🎯 Goals  
+- Master full-stack development  
+- Build impactful digital solutions  
+- Contribute to open-source projects  
+
