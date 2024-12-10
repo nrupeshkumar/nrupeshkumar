@@ -1,47 +1,24 @@
-# 💻 Hi there! I'm Rupesh 👋  
+<h1 align="center">Hi 👋, I'm Rupesh</h1>
+<h3 align="center">Specializing in Dynamic,Scalable and Responsible Web Development</h3>
 
-### 🚀 About Me  
-- 🌟 **Recent Graduate**: BCA from Madras University  
-- 💡 **Passionate Web Developer**: Proficient in HTML, CSS, Bootstrap, JavaScript  
-- 📈 **Aspiring Full Stack Developer**: Learning React.js and exploring modern web technologies  
-- 📊 **Digital Enthusiast**: Interested in Excel, MS Word, and digital marketing  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nrupeshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="nrupeshkumar" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrupeshkumar" alt="nrupeshkumar" /></a> </p>
 
-### 🛠️ Skills & Tools  
-**Frontend**  
-- HTML | CSS | Bootstrap | JavaScript  
+- 🌱 I’m currently learning **react.js**
 
-**Backend & Databases**  
-- (Add your backend/database knowledge, e.g., Node.js, MongoDB)  
+- 👨‍💻 All of my projects are available at [https://nrupeshkumar.github.io/proj3/#](https://nrupeshkumar.github.io/proj3/#)
 
-**Others**  
-- Excel | MS Word  
+- 📫 How to reach me **rupeshdeveloper30@gmail.com**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-### 📂 Featured Projects  
-- 🌐 **[Portfolio Website](#)**: A showcase of my personal projects and skills.  
-- 📑 **Project Name**: (Brief description and [link](#))  
-- 📊 **Project Name**: (Brief description and [link](#))  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-*(Add links to your hosted projects or repositories here)*  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nrupeshkumar&show_icons=true&locale=en&layout=compact" alt="nrupeshkumar" /></p>
 
----
-
-### 📚 What I'm Learning  
-- React.js | Advanced Excel | Digital Marketing  
-
----
-
-### 🌐 Connect with Me  
-- 🖇️ **LinkedIn**: [Your LinkedIn Profile](#)  
-- ✉️ **Email**: [Your Email Address](#)  
-
----
-
-### 🎯 Goals  
-- Master full-stack development  
-- Build impactful digital solutions  
-- Contribute to open-source projects  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nrupeshkumar&show_icons=true&locale=en" alt="nrupeshkumar" /></p>
 
