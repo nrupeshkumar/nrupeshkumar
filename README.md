@@ -5,16 +5,17 @@ Hi there! 👋 I'm Rupesh
 
 <div  style="display:flex;width="100%">
   <div style="width:"50%">
-## 🛠️ Skills & Tools  
-- **Languages:** HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** Bootstrap, React.js (learning)  
-- **Tools:** Excel, MS Word, VS Code  
-- **Soft Skills:** Problem-solving, attention to detail, communication  
+ 🛠️ Skills & Tools  
+ Languages:** HTML, CSS, JavaScript  
+ Frameworks & Libraries:** Bootstrap, React.js (learning)   
+ Tools: Excel, MS Word, VS Code  
+ Soft Skills:** Problem-solving, attention to detail, communication  
 
 ---
 </div>
 <div style="width:"50%">
 <img width="200px" src="./my-profile-img.jpg">
+  <img width="200px" src="./my-profile-img.jpg">
   </div>
 </div>
 ## 🌟 About Me  
