@@ -14,8 +14,6 @@ Hi there! 👋 I'm Rupesh
 ---
 </div>
 <div style="width:"50%">
-<img width="200px" src="./my-profile-img.jpg">
-  <img width="200px" src="./my-profile-img.jpg">
   </div>
 </div>
 ## 🌟 About Me  
