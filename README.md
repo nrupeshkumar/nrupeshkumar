@@ -1,12 +1,8 @@
-Here's a clean and professional example of a **GitHub README file** tailored for your profile as a recent BCA graduate with skills in web development and aspirations to grow in the field.
-
----
-
-# Hi there! 👋 I'm Rupesh  
+Hi there! 👋 I'm Rupesh  
 
 🌟 **Aspiring Web Developer** | 🎓 **BCA Graduate** | 💡 Passionate about learning and building user-centric solutions  
 
----
+
 <div style="display:flex">
   <div width="50%">
 ## 🛠️ Skills & Tools  
@@ -18,7 +14,7 @@ Here's a clean and professional example of a **GitHub README file** tailored for
 ---
 </div>
 <div width="50%">
-<img src="./my-profile-img.jpg">
+<img width="200px" src="./my-profile-img.jpg">
   </div>
 </div>
 ## 🌟 About Me  
