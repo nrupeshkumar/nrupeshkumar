@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rupesh</h1>
 <h3 align="center">Specializing in Dynamic,Scalable and Responsible Web Development</h3>
-
+<img src="./my-profile-img.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nrupeshkumar&label=Profile%20views&color=0e75b6&style=flat" alt="nrupeshkumar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nrupeshkumar" alt="nrupeshkumar" /></a> </p>
