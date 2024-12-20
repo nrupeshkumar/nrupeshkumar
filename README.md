@@ -15,7 +15,7 @@ Hi there! 👋 I'm Rupesh
 </div>
 <div style="width:"50%">
   </div>
-</div>
+
 ## 🌟 About Me  
 🎓 Recently graduated from **Madras University** in **BCA**  
 💻 Exploring the world of **web development** and **UI/UX design**  
@@ -29,7 +29,7 @@ Hi there! 👋 I'm Rupesh
 - Build engaging and accessible web applications  
 
 ---
-
+</div>
 ## 📂 Projects  
 ### 1. **Portfolio Website**  
 🚀 A responsive portfolio website showcasing my skills and projects.  
