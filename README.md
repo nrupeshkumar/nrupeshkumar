@@ -8,6 +8,7 @@ Here's a clean and professional example of a **GitHub README file** tailored for
 
 ---
 <div style="display:flex">
+  <div width="50%">
 ## 🛠️ Skills & Tools  
 - **Languages:** HTML, CSS, JavaScript  
 - **Frameworks & Libraries:** Bootstrap, React.js (learning)  
@@ -15,7 +16,10 @@ Here's a clean and professional example of a **GitHub README file** tailored for
 - **Soft Skills:** Problem-solving, attention to detail, communication  
 
 ---
-<img src="./my-profile-img.jpg">
+</div>
+<div width="50%">
+<img width="100% src="./my-profile-img.jpg">
+  </div>
 </div>
 ## 🌟 About Me  
 🎓 Recently graduated from **Madras University** in **BCA**  
