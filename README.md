@@ -7,7 +7,7 @@ Here's a clean and professional example of a **GitHub README file** tailored for
 🌟 **Aspiring Web Developer** | 🎓 **BCA Graduate** | 💡 Passionate about learning and building user-centric solutions  
 
 ---
-
+<div style="display:flex">
 ## 🛠️ Skills & Tools  
 - **Languages:** HTML, CSS, JavaScript  
 - **Frameworks & Libraries:** Bootstrap, React.js (learning)  
@@ -16,6 +16,7 @@ Here's a clean and professional example of a **GitHub README file** tailored for
 
 ---
 <img src="./my-profile-img.jpg">
+</div>
 ## 🌟 About Me  
 🎓 Recently graduated from **Madras University** in **BCA**  
 💻 Exploring the world of **web development** and **UI/UX design**  
