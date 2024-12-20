@@ -15,7 +15,7 @@ Here's a clean and professional example of a **GitHub README file** tailored for
 - **Soft Skills:** Problem-solving, attention to detail, communication  
 
 ---
-
+<img src="./my-profile-img.jpg">
 ## 🌟 About Me  
 🎓 Recently graduated from **Madras University** in **BCA**  
 💻 Exploring the world of **web development** and **UI/UX design**  
