@@ -18,7 +18,7 @@ Here's a clean and professional example of a **GitHub README file** tailored for
 ---
 </div>
 <div width="50%">
-<img width="100% src="./my-profile-img.jpg">
+<img src="./my-profile-img.jpg">
   </div>
 </div>
 ## 🌟 About Me  
