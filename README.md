@@ -3,8 +3,8 @@ Hi there! 👋 I'm Rupesh
 🌟 **Aspiring Web Developer** | 🎓 **BCA Graduate** | 💡 Passionate about learning and building user-centric solutions  
 
 
-<div style="display:flex">
-  <div width="50%">
+<div  style="display:flex;width="100%">
+  <div style="width:"50%">
 ## 🛠️ Skills & Tools  
 - **Languages:** HTML, CSS, JavaScript  
 - **Frameworks & Libraries:** Bootstrap, React.js (learning)  
@@ -13,7 +13,7 @@ Hi there! 👋 I'm Rupesh
 
 ---
 </div>
-<div width="50%">
+<div style="width:"50%">
 <img width="200px" src="./my-profile-img.jpg">
   </div>
 </div>
