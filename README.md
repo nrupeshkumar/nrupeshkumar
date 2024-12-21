@@ -21,7 +21,7 @@
            I enjoy building responsive and visually appealing websites while continuously enhancing my skills.  
         </div>
         <div class="img">
-          <img width="200px" src="./whiteback1.jpg" alt="">
+          <img width="200px" src="./logo.png" alt="">
         </div>
         </div>
       </div>
