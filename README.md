@@ -1,53 +1,14 @@
-Hi there! 👋 I'm Rupesh  
-
-🌟 **Aspiring Web Developer** | 🎓 **BCA Graduate** | 💡 Passionate about learning and building user-centric solutions  
-
-
-<div  style="display:flex;width="100%">
-  <div style="width:"50%">
- 🛠️ Skills & Tools  
- Languages:** HTML, CSS, JavaScript  
- Frameworks & Libraries:** Bootstrap, React.js (learning)   
- Tools: Excel, MS Word, VS Code  
- Soft Skills:** Problem-solving, attention to detail, communication  
-
----
-</div>
-<div style="width:"50%">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <div style="width: 100%;min-height: 100vh;background-color: bisque;" class="">
+<h1>hello</h1>
   </div>
+</body>
+</html>
 
-## 🌟 About Me  
-🎓 Recently graduated from **Madras University** in **BCA**  
-💻 Exploring the world of **web development** and **UI/UX design**  
-📈 Keen to learn **React.js** and grow as a **full-stack developer**  
-
----
-
-## 🚀 Goals  
-- Learn advanced **React.js** and **digital marketing**  
-- Contribute to open-source projects  
-- Build engaging and accessible web applications  
-
----
-</div>
-## 📂 Projects  
-### 1. **Portfolio Website**  
-🚀 A responsive portfolio website showcasing my skills and projects.  
-🔗 [View Portfolio](#)  
-
-### 2. **Other Projects**  
-- Created dynamic websites using **HTML**, **CSS**, and **Bootstrap**.  
-- Worked on real-world UI/UX challenges.  
-
----
-
-## 📬 Let's Connect!  
-- 💼 [LinkedIn](#)  
-- 🌐 [Portfolio Website](#)  
-- 📧 rupesh@example.com  
-
----
-
-You can customize this further with links to your **GitHub stats**, **top repositories**, and any specific projects or accomplishments you want to showcase.
-
-Would you like help refining or adding any specific sections?
