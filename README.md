@@ -1,30 +1,29 @@
+# 👋 Hi, I'm Rupesh  
 
+## 🌟 About Me  
+I am a **BCA graduate** from Madras University with a passion for **frontend development** and creating seamless user experiences. I enjoy building responsive and visually appealing websites while continuously enhancing my skills.  
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<!--   <title>Document</title> -->
-</head>
-<body style="margin: 0;padding: 0;box-sizing:border-box;min-height: 100%;">
-  <div style="padding: 30px;" class="container">
-    <div class="intro" style="font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;" class="">
-      <div class="heading">
-        <h2>👋 Hi, I'm Rupesh  </h2>
-      </div>
-      <div  class="about">
-        <h2>🌟 About Me</h2>
-        <div style="display: flex;gap: 30px;" class="ab">
-        <div style="width: 30%;" class="about-me">
-          I am a BCA graduate from Madras University.  
-        </div>
-        <div class="img">
-          <img width="200px" src="./logo.png" alt="">
-        </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</body>
-</html>
+## 🛠 Skills  
+- **Frontend Development**: HTML, CSS, JavaScript, Bootstrap  
+- **Tools**: Microsoft Excel, Microsoft Word  
+- **Currently Learning**: React.js, Advanced MS Office  
+
+## 🚀 What I’m Working On  
+- Building interactive and responsive web applications.  
+- Expanding my skill set by learning advanced concepts in React.js and modern frontend development.  
+
+## 🎯 Career Goals  
+To excel as a **frontend developer** by contributing to innovative projects and staying updated with the latest technologies.  
+
+## 📫 How to Reach Me  
+- **Email**: [Your Email Address]  
+- **LinkedIn**: [Your LinkedIn Profile URL]  
+- **Portfolio**: [Your Portfolio URL]  
+
+## ⚡ Fun Fact  
+When I’m not coding, I enjoy exploring digital marketing concepts and solving real-world challenges.  
+
+---
+
+> **"Great things never come from comfort zones."**  
+
