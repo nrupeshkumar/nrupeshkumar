@@ -17,8 +17,7 @@
         <h2>🌟 About Me</h2>
         <div style="display: flex;gap: 30px;" class="ab">
         <div style="width: 30%;" class="about-me">
-          I am a BCA graduate from Madras University with a passion for frontend development and creating seamless user experiences.
-           I enjoy building responsive and visually appealing websites while continuously enhancing my skills.  
+          I am a BCA graduate from Madras University.  
         </div>
         <div class="img">
           <img width="200px" src="./logo.png" alt="">
